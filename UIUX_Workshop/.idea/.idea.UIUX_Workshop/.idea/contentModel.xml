@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Kenney" t="Include">
+          <e p="license Game Icon.txt" t="Include" />
+          <e p="license UI pack.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ActivateDeactivateScript.cs" t="Include" />
+          <e p="CallEventsScript.cs" t="Include" />
+          <e p="CreateAttachInformationData.cs" t="Include" />
+          <e p="CreateAttachObject.cs" t="Include" />
+          <e p="DestroyObject.cs" t="Include" />
+          <e p="InformationData.cs" t="Include" />
+          <e p="PlaySound.cs" t="Include" />
+          <e p="ToggleActive.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="UIUX_Workshop.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_UIUX_Workshop.1959878431.00" t="ExcludeRecursive" />
+  </component>
+</project>
