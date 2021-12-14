@@ -5,7 +5,7 @@ public class CallEventsScript : MonoBehaviour
 {
     public UnityEvent events;
     
-    private void InvokeEvents()
+    public void InvokeEvents()
     { 
         events.Invoke();   
     }
